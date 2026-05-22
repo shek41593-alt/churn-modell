@@ -1,4 +1,4 @@
-# Churn Model MLOps Demo
+# Churn Model (MLOps)
 
 A simple end-to-end MLOps demonstration project for customer churn prediction using Machine Learning, FastAPI, and Python.
 
